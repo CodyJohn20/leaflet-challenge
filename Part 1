@@ -1,1 +1,11 @@
+"type": "Feature Collection",
 
+"metadata":{
+    "generated":1696484115000
+    "url":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson"
+    "title":"USGS All Earthquakes 4.5+, Past Week",
+    "status":200
+    "api":1.10.3
+    "count":126},
+    
+ 
